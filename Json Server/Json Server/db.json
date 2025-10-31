@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Rohan",
+      "age": 23,
+      "email": "rohan@gmail.com",
+      "id": "d967"
+    },
+    {
+      "name": "Raji",
+      "age": 24,
+      "email": "raji@gmail.com",
+      "id": "9cab"
+    },
+    {
+      "name": "Spandy",
+      "age": 25,
+      "email": "spandy@gmail.com",
+      "id": "3a94"
+    },
+    {
+      "name": "Sonia",
+      "age": 28,
+      "email": "sonia@gmail.com",
+      "id": "dbfe"
+    },
+    {
+      "name": "Priya",
+      "age": 23,
+      "email": "priya@gmail.com",
+      "id": "d0f7"
+    },
+    {
+      "id": "a108",
+      "name": "Mia",
+      "age": 30,
+      "email": "mia@gmail.com"
+    },
+    {
+      "id": "1ab6",
+      "name": "leena",
+      "age": "23",
+      "email": "lii@gmail.com"
+    }
+  ]
+}
